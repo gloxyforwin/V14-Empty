@@ -1,0 +1,11 @@
+{
+"Bot": {
+    "Token": "",
+    "Prefix": ".",
+    "VoiceChannel": "",
+    "GuildID": "",
+    "OwnerID": [""]
+}
+
+
+}
